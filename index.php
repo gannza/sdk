@@ -15,7 +15,7 @@
 </style>
 </head>
 <body class="mat-typography" style="margin:200px">
-
+<a href="https://github.com/yegobox/flutterwave-sdk/tree/master"><strong>Yegobox Payment SDK Documentation</strong></a>
   <payment-sdk  
   enablemomo='true' 
   showbutton='false' modal="md" 
