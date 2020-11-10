@@ -27,6 +27,7 @@
   account_id=""
   enableredirect="true"
   redirecturl="https://yegobox.com/"
+  testing="false"
   ></payment-sdk>
 <script src="https://yegobox.com/sdk/payment-sdk.js" type="text/javascript"></script>
 </body>
